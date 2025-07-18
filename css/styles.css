@@ -1,1 +1,41 @@
+#projects {
+  background-color: #000;
+  color: #fff;
+  padding: 60px 20px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2em;
+  color: #FFD700;
+  margin-bottom: 40px;
+}
+
+.projects-container {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: 1fr;
+  max-width: 800px;
+  margin: auto;
+}
+
+.project-card {
+  background-color: #1a1a1a;
+  border-left: 5px solid #FFD700;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.project-card h3 {
+  color: #FFD700;
+}
+
+.project-link {
+  color: #FFD700;
+  text-decoration: none;
+  font-weight: bold;
+}
+.project-link:hover {
+  text-decoration: underline;
+}
 
