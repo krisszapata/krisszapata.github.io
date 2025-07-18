@@ -90,15 +90,16 @@ body {
 
 /* Individual project cards */
 .project-card {
-  background-color: #1a1a1a;
+  background-color: #fff; /* changed to white */
   border-left: 5px solid #FFD700;
   padding: 20px;
   border-radius: 10px;
   transition: background-color 0.3s ease;
+  color: #000; /* black text for readability */
 }
 
 .project-card:hover {
-  background-color: #2a2a2a;
+  background-color: #f8f8f8; /* subtle lighter hover */
 }
 
 .project-card h3 {
@@ -110,7 +111,7 @@ body {
 .project-card .description,
 .project-card .tools-used {
   margin-bottom: 12px;
-  color: #ddd;
+  color: #333; /* dark gray text */
 }
 
 .project-link {
@@ -122,3 +123,4 @@ body {
 .project-link:hover {
   text-decoration: underline;
 }
+
