@@ -6,7 +6,7 @@ This site is hosted using GitHub Pages.
 
 ## 🔗 View the Site
 
-👉 [https://krisszapata.github.io](https://krisszapata.github.io)
+[https://krisszapata.github.io](https://krisszapata.github.io)
 
 ## 📁 What's Here
 
