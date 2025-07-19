@@ -1,7 +1,7 @@
 # krisszapata.github.io
 
 
-Welcome to my personal website! 🌐  
+Welcome!  
 This site is hosted using GitHub Pages.
 
 ## 🔗 View the Site
@@ -10,12 +10,12 @@ This site is hosted using GitHub Pages.
 
 ## 📁 What's Here
 
-- `index.html` – Main homepage with a simple "Hello World" message.
+- `index.html` 
 - More content will be added soon.
 
 ## 🚀 Built With...
 
-- HTML
+- HTML, CSS
 - GitHub Pages
 
 ## 💬 Contact
