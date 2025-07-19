@@ -20,5 +20,5 @@ This site is hosted using GitHub Pages.
 
 ## 💬 Contact
 
-Check out my GitHub profile: [github.com/krisszapata](https://github.com/krisszapata)
-Business email: krizva0@gmail.com 
+- Check out my GitHub profile: [github.com/krisszapata](https://github.com/krisszapata)
+- Business email: krizva0@gmail.com 
